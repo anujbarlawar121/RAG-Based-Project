@@ -1,0 +1,16 @@
+audios/
+jsons/
+__pycache__/
+*.pyc
+.env
+venv/
+unused/
+Videos/
+new_json/
+whisper/
+embeddings.joblib
+prompt.txt
+response.txt
+output.json
+Untitled-1.json
+*.mp3
