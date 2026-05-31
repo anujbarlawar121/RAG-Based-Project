@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # RAG-Based AI Teaching Assistant
 
 A simple retrieval-augmented generation project that turns course videos into a question-answering assistant.
